@@ -1,6 +1,6 @@
 ﻿namespace pNuvoleServer
 {
-  partial class Service1
+  partial class NuvoleService
   {
     /// <summary> 
     /// 필수 디자이너 변수입니다.

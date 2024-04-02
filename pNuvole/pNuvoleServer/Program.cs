@@ -17,7 +17,7 @@ namespace pNuvoleServer
       ServiceBase[] ServicesToRun;
       ServicesToRun = new ServiceBase[]
       {
-                new Service1()
+                new NuvoleService()
       };
       ServiceBase.Run(ServicesToRun);
     }

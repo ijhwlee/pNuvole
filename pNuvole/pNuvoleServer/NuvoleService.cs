@@ -4,15 +4,16 @@ using System.ComponentModel;
 using System.Data;
 using System.Diagnostics;
 using System.Linq;
+using System.Net.Http;
 using System.ServiceProcess;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace pNuvoleServer
 {
-  public partial class Service1 : ServiceBase
+  public partial class NuvoleService : ServiceBase
   {
-    public Service1()
+    public NuvoleService()
     {
       InitializeComponent();
     }
