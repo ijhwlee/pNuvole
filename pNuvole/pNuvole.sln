@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pNuvoleServer", "pNuvoleServer\pNuvoleServer.csproj", "{EEF0795C-62D3-4A71-8B7C-A264AE1DACBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEF0795C-62D3-4A71-8B7C-A264AE1DACBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEF0795C-62D3-4A71-8B7C-A264AE1DACBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEF0795C-62D3-4A71-8B7C-A264AE1DACBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEF0795C-62D3-4A71-8B7C-A264AE1DACBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {911B5086-A574-4159-9603-D858C2D7FB0C}
+	EndGlobalSection
+EndGlobal
